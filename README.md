@@ -48,18 +48,18 @@
 
 <h3 align="left">📌 Featured Projects:</h3>
 
-<!-- Replace repo names with your actual pinned project repos -->
 <p align="left">
-  <a href="https://github.com/Luffytaro34/flood-hazard-assessment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luffytaro34&repo=flood-hazard-assessment-&theme=dark&hide_border=true"/>
+  <a href="https://github.com/SanjayVanam144/Flood-Hazard-Assessment-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayVanam144&repo=Flood-Hazard-Assessment-&theme=dark&hide_border=true"/>
   </a>
-  <a href="https://github.com/Luffytaro34/weather-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luffytaro34&repo=weather-app&theme=dark&hide_border=true"/>
+  <a href="https://github.com/SanjayVanam144/weather-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayVanam144&repo=weather-app&theme=dark&hide_border=true"/>
   </a>
-  <a href="https://github.com/Luffytaro34/myblog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luffytaro34&repo=myblog&theme=dark&hide_border=true"/>
+  <a href="https://github.com/SanjayVanam144/myblog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayVanam144&repo=myblog&theme=dark&hide_border=true"/>
   </a>
-  <a href="https://github.com/Luffytaro34/funchat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luffytaro34&repo=Python-FunChat&theme=dark&hide_border=true"/>
+  <a href="https://github.com/SanjayVanam144/Python-FunChat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayVanam144&repo=Python-FunChat&theme=dark&hide_border=true"/>
   </a>
 </p>
+

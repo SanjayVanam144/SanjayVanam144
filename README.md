@@ -49,7 +49,7 @@
 <h3 align="left">📌 Featured Projects:</h3>
 
 <p align="left">
-  <a href="https://github.com/SanjayVanam144/Flood-Hazard-Assessment-">
+  <a href="https://github.com/SanjayVanam144/Flood-Hazard-Assessment">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayVanam144&repo=Flood-Hazard-Assessment-&theme=dark&hide_border=true"/>
   </a>
   <a href="https://github.com/SanjayVanam144/weather-app">
